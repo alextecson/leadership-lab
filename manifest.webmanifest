@@ -1,0 +1,16 @@
+{
+  "name": "Leadership Lab",
+  "short_name": "Leadership Lab",
+  "description": "NSG 4700 study supplement. Practice questions by unit with the rationale behind every answer. Your progress stays on your phone.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#a9c4e6",
+  "theme_color": "#14244a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
